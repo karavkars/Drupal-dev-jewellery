@@ -820,4 +820,4 @@ $databases['default']['default'] = array (
   'namespace' => 'Drupal\\Core\\Database\\Driver\\mysql',
   'driver' => 'mysql',
 );
-$settings['config_sync_directory'] = 'sites/jewellery.dd/files/config_z0p27phag26AJTZCKyOAIN2p1lK_mhnMR-D0rNAbJsSX1w4zPDrXp1fv2Jaz4Hz2IMpnwMpPxA/sync';
+$settings['config_sync_directory'] = '../config/jewellery.dd/sync';
