@@ -1,1 +1,9 @@
+# ignore everything except prefixed with !
 
+/docroot/*
+!/docroot/libraries/
+!/docroot/modules/custom
+!/docroot/themes/custom
+!/docroot/sites
+!/docroot/composer.json
+!/docroot/composer.lock
